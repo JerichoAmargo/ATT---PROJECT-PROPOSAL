@@ -13,6 +13,7 @@
 The SDGs that are relevant to the project proposal "Enhancing Biodiversity Conservation and Ecotourism in Coastal Communities" are:
 
 **SDG 14: Life Below Water** - seeks to protect and sustainably use the oceans, seas, and marine resources for sustainable development, including the conservation of marine biodiversity.
+
 **SDG 15: Life On Land** - aims to protect, restore, and promote the sustainable use of terrestrial ecosystems, manage forests sustainably, combat desertification, halt and reverse land degradation and biodiversity loss, and promote the conservation of biodiversity and ecosystems in coastal areas.
 
 By promoting biodiversity conservation and ecotourism in coastal communities, the proposed initiative can help achieve these Sustainable Development Goals.
