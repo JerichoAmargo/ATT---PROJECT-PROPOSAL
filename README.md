@@ -1,4 +1,4 @@
-# **TEAM ECO MODE**
+![Project Banner](https://github.com/JerichoAmargo/ATT---PROJECT-PROPOSAL/blob/main/Project%20Banner.png)
 ![Wonderful Beach](https://github.com/JerichoAmargo/ATT---PROJECT-PROPOSAL/blob/main/Wonderful%20Beach.jpg)
 
 # Project Title: Enhancing Biodiversity Conservation and Ecotourism in Coastal Communities
