@@ -3,6 +3,7 @@
 # Project Title: Enhancing Biodiversity Conservation and Ecotourism in Coastal Communities
 
 ![Members](https://github.com/JerichoAmargo/ATT---PROJECT-PROPOSAL/blob/main/Members.png)
+#### This repository is for our requirement in BAT404 - Analytics Techniques and Tools (IT 3204)
 
 ## Introduction
   Numerous environmental threats, such as habitat loss, overfishing, and climate change, threaten coastal populations throughout. Because of these factors, many animal and plant species are in danger of going extinct. There is a conflict between economic growth and conservation in coastal areas because many people there depend on the environment for their survival. By encouraging biodiversity conservation and ecotourism in coastal communities, this project hopes to alleviate this conflict and help accomplish the Sustainable Development Goals (SDGs) related to biodiversity protection and economic expansion.
