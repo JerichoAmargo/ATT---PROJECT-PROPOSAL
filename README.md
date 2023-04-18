@@ -1,3 +1,4 @@
+# **TEAM ECO MODE**
 ![Wonderful Beach](https://github.com/JerichoAmargo/ATT---PROJECT-PROPOSAL/blob/main/Wonderful%20Beach.jpg)
 
 # Project Title: Enhancing Biodiversity Conservation and Ecotourism in Coastal Communities
@@ -13,9 +14,9 @@
 
 The SDGs that are relevant to the project proposal "Enhancing Biodiversity Conservation and Ecotourism in Coastal Communities" are:
 
-**SDG 14: Life Below Water** - seeks to protect and sustainably use the oceans, seas, and marine resources for sustainable development, including the conservation of marine biodiversity.
+> - **SDG 14: Life Below Water** - seeks to protect and sustainably use the oceans, seas, and marine resources for sustainable development, including the conservation of marine biodiversity.
 
-**SDG 15: Life On Land** - aims to protect, restore, and promote the sustainable use of terrestrial ecosystems, manage forests sustainably, combat desertification, halt and reverse land degradation and biodiversity loss, and promote the conservation of biodiversity and ecosystems in coastal areas.
+> - **SDG 15: Life On Land** - aims to protect, restore, and promote the sustainable use of terrestrial ecosystems, manage forests sustainably, combat desertification, halt and reverse land degradation and biodiversity loss, and promote the conservation of biodiversity and ecosystems in coastal areas.
 
 By promoting biodiversity conservation and ecotourism in coastal communities, the proposed initiative can help achieve these Sustainable Development Goals.
 
@@ -33,11 +34,11 @@ In the project's second phase, reforestation and coral transplantation will be a
 Community outreach and education will round out the project's goals, highlighting the connection between protecting biodiversity and fostering long-term growth. For this purpose, we will create outreach and education programs and launch neighborhood conservation projects.
 
 ## Expected Output: The expected outputs of this project include:
-1. Implementation of sustainable fishing practices and ecosystem restoration results in improved biodiversity conservation.
+> - Implementation of sustainable fishing practices and ecosystem restoration results in improved biodiversity conservation.
 
-2. Through the development of ecotourism programs, employment opportunities and economic growth will increase.
+> - Through the development of ecotourism programs, employment opportunities and economic growth will increase.
 
-3. Enhanced community engagement and participation in conservation of biodiversity and sustainable development heightened awareness of the value of biodiversity conservation and sustainable development.
+> -  Enhanced community engagement and participation in conservation of biodiversity and sustainable development heightened awareness of the value of biodiversity conservation and sustainable development.
 
 ## References
 1. United Nations. (2021). Sustainable Development Goals. Retrieved from https://www.un.org/sustainabledevelopment/
