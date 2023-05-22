@@ -45,5 +45,4 @@ Community outreach and education will round out the project's goals, highlightin
 
 2. FAO. (2021). The State of World Fisheries and Aquaculture. https://www.fao.org/publications/home/fao-flagship-publications/the-state-of-world-fisheries-and-aquaculture/en
 3. IUCN. (2018). Guidelines for Coral Reef Restoration in the Context of Climate Change and Reef Degradation. [https://portals.iucn.org/library/node/47679](https://www.iucn.org/resources/issues-brief/coral-reefs-and-climate-change)
-4. UNEP. (2021). Ecotourism. https://www.unep.org/resources/report/ecotourism
-5. UNWTO. (2020). Tourism for Biodiversity. [https://www.e-unwto.org/doi/pdf/10.18111/9789284423477](https://www.unwto.org/sustainable-development/biodiversity)
+4. UNWTO. (2020). Tourism for Biodiversity. [https://www.e-unwto.org/doi/pdf/10.18111/9789284423477](https://www.unwto.org/sustainable-development/biodiversity)
