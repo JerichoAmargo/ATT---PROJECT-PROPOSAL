@@ -41,9 +41,9 @@ Community outreach and education will round out the project's goals, highlightin
 *  Enhanced community engagement and participation in conservation of biodiversity and sustainable development heightened awareness of the value of biodiversity conservation and sustainable development.
 
 ## References
-1. United Nations. (2021). Sustainable Development Goals. Retrieved from https://www.un.org/sustainabledevelopment/
+1. United Nations. (2021). Sustainable Development Goals. https://www.un.org/sustainabledevelopment/
 
-2. FAO. (2021). The State of World Fisheries and Aquaculture. Retrieved from http://www.fao.org/3/cb1217en/cb1217en.pdf
-3. IUCN. (2018). Guidelines for Coral Reef Restoration in the Context of Climate Change and Reef Degradation. Retrieved from https://portals.iucn.org/library/node/47679
-4. UNEP. (2021). Ecotourism. Retrieved from https://www.unep.org/resources/report/ecotourism
-5. UNWTO. (2020). Tourism for Biodiversity. Retrieved from https://www.e-unwto.org/doi/pdf/10.18111/9789284423477
+2. FAO. (2021). The State of World Fisheries and Aquaculture. https://www.fao.org/publications/home/fao-flagship-publications/the-state-of-world-fisheries-and-aquaculture/en
+3. IUCN. (2018). Guidelines for Coral Reef Restoration in the Context of Climate Change and Reef Degradation. [https://portals.iucn.org/library/node/47679](https://www.iucn.org/resources/issues-brief/coral-reefs-and-climate-change)
+4. UNEP. (2021). Ecotourism. https://www.unep.org/resources/report/ecotourism
+5. UNWTO. (2020). Tourism for Biodiversity. [https://www.e-unwto.org/doi/pdf/10.18111/9789284423477](https://www.unwto.org/sustainable-development/biodiversity)
