@@ -21,7 +21,7 @@ The SDGs that are relevant to the project proposal "Enhancing Biodiversity Conse
 By promoting biodiversity conservation and ecotourism in coastal communities, the proposed initiative can help achieve these Sustainable Development Goals.
 
 ## Problem Statement
-  The protection of biodiversity and the promotion of long-term economic growth are both hard tasks for coastal towns. Destroying habitats, overfishing, polluting, and global warming are all examples of such threats. As a result, there is a conflict between economic growth and conservation in places where people rely on natural resources for subsistence.
+  Coastal communities face challenging objectives, including both the preservation of biological diversity and the encouragement of sustained economic expansion. Examples of such dangers include things like habitat destruction, excessive fishing, pollution, and climate change. As a result of this, there is a tension between fostering economic growth and protecting natural resources in areas where people base their livelihoods on the extraction of natural resources.
 
 ## Significance of the Proposed Project
   This project produces a number of significant results. It will first promote biodiversity conservation by implementing sustainable fishing practices, safeguarding vital habitats, and restoring degraded ecosystems. Secondly, it will promote economic development by creating ecotourism programs that offer employment opportunities and contribute to the local economy. Lastly, it will raise awareness of the significance of biodiversity conservation and sustainable development, thereby encouraging community engagement and participation.
