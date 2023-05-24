@@ -1,5 +1,5 @@
 ![Project Banner](https://github.com/JerichoAmargo/ATT---PROJECT-PROPOSAL/blob/main/Project%20Banner.png)
-![Wonderful Beach](https://github.com/JerichoAmargo/ATT---PROJECT-PROPOSAL/blob/main/Wonderful%20Beach.jpg)
+![Background](https://github.com/JerichoAmargo/ATT---PROJECT-PROPOSAL/blob/main/Background.jpeg)
 
 # Project Title: Sustainable Agriculture and Food Security in Rural Philippines
 
@@ -46,21 +46,22 @@ These conditions increase hunger, particularly in rural places where fresh, heal
 The project will employ a mixed-methods approach, combining quantitative and qualitative data collection and analysis. This will involve:
 
 •	Surveying rural farmers to assess their farming practices, challenges, and needs.
+
 •	Conducting focus group discussions and interviews with farmers, community leaders, and agricultural extension workers to gain deeper insights into the local context and experiences.
+
 •	Reviewing existing literature and policies related to agriculture and food security in the Philippines.
+
 •	Collaborating with local agricultural extension services and NGOs to implement and monitor sustainable farming practices.
+
 •	Analyzing data collected to identify key trends, challenges, and opportunities, and to evaluate the impact of implemented practices.
 
 ## Expected Output: The expected outputs of this project include:
-* Implementation of sustainable fishing practices and ecosystem restoration results in improved biodiversity conservation.
 
-* Through the development of ecotourism programs, employment opportunities and economic growth will increase.
-
-*  Enhanced community engagement and participation in conservation of biodiversity and sustainable development heightened awareness of the value of biodiversity conservation and sustainable development.
+  The project's expected output is to provide a comprehensive report on agricultural and food security in rural areas of the Philippines, outlining both present issues and proposed solutions. Sustainable agricultural practices will be implemented and evaluated in specific communities with the goals of improving food security and promoting environmental sustainability.
 
 ## References
 1. United Nations. (2021). Sustainable Development Goals. https://www.un.org/sustainabledevelopment/
 
-2. FAO. (2021). The State of World Fisheries and Aquaculture. https://www.fao.org/publications/home/fao-flagship-publications/the-state-of-world-fisheries-and-aquaculture/en
-3. IUCN. (2018). Guidelines for Coral Reef Restoration in the Context of Climate Change and Reef Degradation. [https://portals.iucn.org/library/node/47679](https://www.iucn.org/resources/issues-brief/coral-reefs-and-climate-change)
-4. UNWTO. (2020). Tourism for Biodiversity. [https://www.e-unwto.org/doi/pdf/10.18111/9789284423477](https://www.unwto.org/sustainable-development/biodiversity)
+2. Green Tumble. (2019). 10 Sustainable Farming Methods and Practices. https://greentumble.com/10-sustainable-farming-methods-and-practices
+
+3. PPSA (Philippine Public Safety Association). (2020). Our Governance Structure. https://www.ppsa-ph.org/our-governance-structure
