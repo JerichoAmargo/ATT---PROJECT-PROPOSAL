@@ -33,21 +33,23 @@ These conditions increase hunger, particularly in rural places where fresh, heal
 ## Significance of the Proposed Project
   This project aims to help reach Sustainable Development Goals 2 (Zero Hunger) and 15 (Life on Land) by promoting sustainable gardening and improving food security in rural Philippines. The significance of the project extends to various stakeholders:
   
-**Rural Farmers:** To help rural farmers increase their income and decrease their negative impact on the environment, this project will teach them new skills.
+* **Rural Farmers:** To help rural farmers increase their income and decrease their negative impact on the environment, this project will teach them new skills.
 
-**Local Communities:** The project can help improve nutrition and health in local communities by making sure there is enough food.
+* **Local Communities:** The project can help improve nutrition and health in local communities by making sure there is enough food.
 
-**Government Agencies:** The project can give useful information and suggestions for making policies and running programs that will make agriculture more sustainable and improve food security.
+* **Government Agencies:** The project can give useful information and suggestions for making policies and running programs that will make agriculture more sustainable and improve food security.
 
-**Future Researchers:** This project's data and conclusions can be used as a starting point for more study on related topics, adding to what is known in this field.
+* **Future Researchers:** This project's data and conclusions can be used as a starting point for more study on related topics, adding to what is known in this field.
 
   
 ## Methods
-Several distinct stages of the proposed project will be carried out. First, in each area, we'll undertake a biodiversity assessment to find the most important ecosystems and the most at-risk species. Following this, sustainable fishing methods will be put into place, including the use of alternative fishing gear, the closure of fishing sites, and the restriction of fishing to certain times of the year.
+The project will employ a mixed-methods approach, combining quantitative and qualitative data collection and analysis. This will involve:
 
-In the project's second phase, reforestation and coral transplantation will be among the techniques used to restore degraded habitats, such as mangrove forests and coral reefs. In addition, the project will create ecotourism programs that encourage responsible travel while also providing locals with new employment possibilities.
-
-Community outreach and education will round out the project's goals, highlighting the connection between protecting biodiversity and fostering long-term growth. For this purpose, we will create outreach and education programs and launch neighborhood conservation projects.
+•	Surveying rural farmers to assess their farming practices, challenges, and needs.
+•	Conducting focus group discussions and interviews with farmers, community leaders, and agricultural extension workers to gain deeper insights into the local context and experiences.
+•	Reviewing existing literature and policies related to agriculture and food security in the Philippines.
+•	Collaborating with local agricultural extension services and NGOs to implement and monitor sustainable farming practices.
+•	Analyzing data collected to identify key trends, challenges, and opportunities, and to evaluate the impact of implemented practices.
 
 ## Expected Output: The expected outputs of this project include:
 * Implementation of sustainable fishing practices and ecosystem restoration results in improved biodiversity conservation.
