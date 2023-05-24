@@ -1,24 +1,25 @@
 ![Project Banner](https://github.com/JerichoAmargo/ATT---PROJECT-PROPOSAL/blob/main/Project%20Banner.png)
 ![Wonderful Beach](https://github.com/JerichoAmargo/ATT---PROJECT-PROPOSAL/blob/main/Wonderful%20Beach.jpg)
 
-# Project Title: Enhancing Biodiversity Conservation and Ecotourism in Coastal Communities
+# Project Title: Sustainable Agriculture and Food Security in Rural Philippines
 
 ![Members](https://github.com/JerichoAmargo/ATT---PROJECT-PROPOSAL/blob/main/Members.png)
 #### This repository is for our requirement in BAT404 - Analytics Techniques and Tools (IT 3204)
 
 ## Introduction
-  Numerous environmental threats, such as habitat loss, overfishing, and climate change, threaten coastal populations throughout. Because of these factors, many animal and plant species are in danger of going extinct. There is a conflict between economic growth and conservation in coastal areas because many people there depend on the environment for their survival. By encouraging biodiversity conservation and ecotourism in coastal communities, this project hopes to alleviate this conflict and help accomplish the Sustainable Development Goals (SDGs) related to biodiversity protection and economic expansion.
+  Agriculture plays an important role in the Philippine economy by contributing to employment, food security and rural development. However, the industry is facing many challenges such as climate change, population growth and agricultural inefficiency that affect its sustainability and sustainable production. Food security and the promotion of sustainable agriculture are among the priorities of the Sustainable Development Goals (SDGs) in the Philippines, which require urgent attention and action. The aim is to explore and solve these problems by focusing on rural areas where agriculture is the main livelihood and food is not satisfied. 
 
-![SDG 14](https://github.com/JerichoAmargo/ATT---PROJECT-PROPOSAL/blob/main/SDG%2014.png)
-![SDG 15](https://github.com/JerichoAmargo/ATT---PROJECT-PROPOSAL/blob/main/SDG%2015.png)
+#### The SDGs that this project aims to attain are Zero Hunger (SDG 2) and Climate Action (SDG 13).
 
-The SDGs that are relevant to the project proposal "Enhancing Biodiversity Conservation and Ecotourism in Coastal Communities" are:
+![SDG 2](https://github.com/JerichoAmargo/ATT---PROJECT-PROPOSAL/blob/main/SDG%202.png)
+*  **SDG 2 Zero Hunger** aims to end hunger, ensure food security and improve nutrition and promote sustainable agriculture. This goal aims to increase annual access to nutritious food for all, double agricultural and smallholder incomes and implement measures to improve crops and profits, help protect ecosystems and strengthen climate change by gradually improving land. and good soil.
+![SDG 13 ](https://github.com/JerichoAmargo/ATT---PROJECT-PROPOSAL/blob/main/SDG%2013.png)
+*  **SDG 13 Climate Action** emphasizes the imperative need to combat climate change and its consequences. This objective is especially pertinent for producers who are severely impacted by climate-related risks. Farmers can reduce their greenhouse gas emissions and increase their ability to adapt to climate change, extreme weather, drought, and other disasters by instituting sustainable and resilient farming practices.
+  
+The Philippine archipelago, with its fertile soils and diverse ecosystems, has enormous potential for agricultural productivity. However, rural areas often have high levels of poverty, lack of access to work and small-scale agriculture, which is not easy. These challenges are exacerbated by climate change, with higher temperatures, erratic rainfall patterns and less frequent weather events affecting crop and animal health.   
 
-* **SDG 14: Life Below Water** - seeks to protect and sustainably use the oceans, seas, and marine resources for sustainable development, including the conservation of marine biodiversity.
+This project attempts to increase food security in rural Philippines by promoting sustainable agriculture.   This includes implementing and strengthening agricultural practices in the village, developing farmers' skills and abilities, improving trade and services, and promoting the food supply.
 
-* **SDG 15: Life On Land** - aims to protect, restore, and promote the sustainable use of terrestrial ecosystems, manage forests sustainably, combat desertification, halt and reverse land degradation and biodiversity loss, and promote the conservation of biodiversity and ecosystems in coastal areas.
-
-By promoting biodiversity conservation and ecotourism in coastal communities, the proposed initiative can help achieve these Sustainable Development Goals.
 
 ## Problem Statement
   Coastal communities face challenging objectives, including both the preservation of biological diversity and the encouragement of sustained economic expansion. Examples of such dangers include things like habitat destruction, excessive fishing, pollution, and climate change. As a result of this, there is a tension between fostering economic growth and protecting natural resources in areas where people base their livelihoods on the extraction of natural resources.
