@@ -13,7 +13,7 @@
 
 ![SDG 2](https://github.com/JerichoAmargo/ATT---PROJECT-PROPOSAL/blob/main/SDG%202.png)
 *  **SDG 2 Zero Hunger** aims to end hunger, ensure food security and improve nutrition and promote sustainable agriculture. This goal aims to increase annual access to nutritious food for all, double agricultural and smallholder incomes and implement measures to improve crops and profits, help protect ecosystems and strengthen climate change by gradually improving land. and good soil.
-![SDG 13 ](https://github.com/JerichoAmargo/ATT---PROJECT-PROPOSAL/blob/main/SDG%2013.png)
+![SDG 13](https://github.com/JerichoAmargo/ATT---PROJECT-PROPOSAL/blob/main/SDG%2013.png)
 *  **SDG 13 Climate Action** emphasizes the imperative need to combat climate change and its consequences. This objective is especially pertinent for producers who are severely impacted by climate-related risks. Farmers can reduce their greenhouse gas emissions and increase their ability to adapt to climate change, extreme weather, drought, and other disasters by instituting sustainable and resilient farming practices.
   
 The Philippine archipelago, with its fertile soils and diverse ecosystems, has enormous potential for agricultural productivity. However, rural areas often have high levels of poverty, lack of access to work and small-scale agriculture, which is not easy. These challenges are exacerbated by climate change, with higher temperatures, erratic rainfall patterns and less frequent weather events affecting crop and animal health.   
