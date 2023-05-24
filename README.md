@@ -34,8 +34,11 @@ These conditions increase hunger, particularly in rural places where fresh, heal
   This project aims to help reach Sustainable Development Goals 2 (Zero Hunger) and 15 (Life on Land) by promoting sustainable gardening and improving food security in rural Philippines. The significance of the project extends to various stakeholders:
   
 **Rural Farmers:** To help rural farmers increase their income and decrease their negative impact on the environment, this project will teach them new skills.
+
 **Local Communities:** The project can help improve nutrition and health in local communities by making sure there is enough food.
+
 **Government Agencies:** The project can give useful information and suggestions for making policies and running programs that will make agriculture more sustainable and improve food security.
+
 **Future Researchers:** This project's data and conclusions can be used as a starting point for more study on related topics, adding to what is known in this field.
 
   
