@@ -1,5 +1,5 @@
 ![Project Banner](https://github.com/JerichoAmargo/ATT---PROJECT-PROPOSAL/blob/main/Project%20Banner.png)
-![Background](https://github.com/JerichoAmargo/ATT---PROJECT-PROPOSAL/blob/main/Background.jpg)
+
 <div align="center">
   <img src="https://github.com/JerichoAmargo/ATT---PROJECT-PROPOSAL/blob/main/Background.jpg" alt="Image" width="2000">
 </div>
