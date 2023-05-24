@@ -3,6 +3,7 @@
 <div align="center">
   <img src="https://github.com/JerichoAmargo/ATT---PROJECT-PROPOSAL/blob/main/Background.jpg" alt="Image" width="2000">
 </div>
+
 # Project Title: Sustainable Agriculture and Food Security in Rural Philippines
 
 ![Members](https://github.com/JerichoAmargo/ATT---PROJECT-PROPOSAL/blob/main/Members.png)
