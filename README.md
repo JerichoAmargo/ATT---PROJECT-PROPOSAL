@@ -23,10 +23,20 @@ This project attempts to increase food security in rural Philippines by promotin
 
 
 ## Problem Statement
-  Coastal communities face challenging objectives, including both the preservation of biological diversity and the encouragement of sustained economic expansion. Examples of such dangers include things like habitat destruction, excessive fishing, pollution, and climate change. As a result of this, there is a tension between fostering economic growth and protecting natural resources in areas where people base their livelihoods on the extraction of natural resources.
+ Multiple interconnected problems have a significant impact on the Philippines' agricultural sector. The increasing frequency and severity of extreme weather events and changes to traditional patterns of rainfall that characterize climate change are serious issues. These changes hurt rural farmers more than other people because their lives depend on subsistence farming and they have fewer resources and less ability to change.
+ 
+The rising number of Filipinos has increased the need for food and added stress to the country's already struggling agricultural industry. Slash-and-burn farming and using too many chemical fertilizers and pesticides are two examples of harmful farming methods that threaten the future of farmland in the country.
+
+These conditions increase hunger, particularly in rural places where fresh, healthy food is more difficult to come by. A comprehensive policy is needed to promote sustainable agriculture, enhance rural quality of life, and guarantee food for all.
+
 
 ## Significance of the Proposed Project
-  This project produces a number of significant results. It will first promote biodiversity conservation by implementing sustainable fishing practices, safeguarding vital habitats, and restoring degraded ecosystems. Secondly, it will promote economic development by creating ecotourism programs that offer employment opportunities and contribute to the local economy. Lastly, it will raise awareness of the significance of biodiversity conservation and sustainable development, thereby encouraging community engagement and participation.
+  This project aims to help reach Sustainable Development Goals 2 (Zero Hunger) and 15 (Life on Land) by promoting sustainable gardening and improving food security in rural Philippines. The significance of the project extends to various stakeholders:
+*Rural Farmers: To help rural farmers increase their income and decrease their negative impact on the environment, this project will teach them new skills.
+*Local Communities: The project can help improve nutrition and health in local communities by making sure there is enough food.
+*Government Agencies: The project can give useful information and suggestions for making policies and running programs that will make agriculture more sustainable and improve food security.
+*Future Researchers: This project's data and conclusions can be used as a starting point for more study on related topics, adding to what is known in this field.
+
   
 ## Methods
 Several distinct stages of the proposed project will be carried out. First, in each area, we'll undertake a biodiversity assessment to find the most important ecosystems and the most at-risk species. Following this, sustainable fishing methods will be put into place, including the use of alternative fishing gear, the closure of fishing sites, and the restriction of fishing to certain times of the year.
