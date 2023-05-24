@@ -1,6 +1,8 @@
 ![Project Banner](https://github.com/JerichoAmargo/ATT---PROJECT-PROPOSAL/blob/main/Project%20Banner.png)
 ![Background](https://github.com/JerichoAmargo/ATT---PROJECT-PROPOSAL/blob/main/Background.jpg)
-
+<div align="center">
+  <img src="path/to/your/Background.jpg" alt="Image" width="400">
+</div>
 # Project Title: Sustainable Agriculture and Food Security in Rural Philippines
 
 ![Members](https://github.com/JerichoAmargo/ATT---PROJECT-PROPOSAL/blob/main/Members.png)
